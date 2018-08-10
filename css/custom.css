@@ -2,6 +2,8 @@
   font-family: 'Raleway', sans-serif;
 }
 
+html, body {width: auto!important; overflow-x: hidden!important} 
+
 .bg-img{
     height: 800px; background-image: url(../img/bg.png);  background-size:cover; background-position: center center;background-attachment:fixed;
 }
@@ -100,6 +102,7 @@ span {
 h4{
   color: #40414f;
   font-weight: 600;
+      margin-top: 20px;
 }
 
 p{
